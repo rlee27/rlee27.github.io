@@ -2485,7 +2485,7 @@
 		background-image: url("images/overlay.png"), url("../../images/nyc_background.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								auto 110%;
+		background-size: auto,								auto 115%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
@@ -2521,7 +2521,7 @@
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.8);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
@@ -2539,23 +2539,7 @@
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
-		}
-
-	#footer .copyright {
-		color: rgba(255, 255, 255, 0.4);
-		font-size: 0.8em;
-		list-style: none;
-		margin: 1em 0 0 0;
-		padding: 0;
-	}
-
-		#footer .copyright li {
-			border-left: solid 1px rgba(255, 255, 255, 0.25);
-			display: inline-block;
-			line-height: 1em;
-			margin-left: 0.75em;
-			padding-left: 0.75em;
+			color: rgba(255, 255, 255, 0.7);
 		}
 
 			#footer .copyright li:first-child {
